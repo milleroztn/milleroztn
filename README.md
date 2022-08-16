@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Austin Miller
+- 👀 I’m interested in Behavioral Economics, Teaching, and Data Science
+- 📫 How to reach me: [LinkedIn.com/in/austinmmiller/](https://www.linkedin.com/in/austinmmiller/)
